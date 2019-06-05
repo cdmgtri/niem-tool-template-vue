@@ -54,3 +54,12 @@ npm run serve
 ```bash
 npm run deploy
 ```
+
+## Updates
+
+To update Vue dependencies:
+
+```bash
+yarn global add @vue/cli-upgrade
+vue upgrade
+```
