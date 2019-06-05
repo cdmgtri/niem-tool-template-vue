@@ -30,4 +30,8 @@ export default {
   position: relative
 }
 
+.navbar-brand {
+  padding-left: 0;
+}
+
 </style>
