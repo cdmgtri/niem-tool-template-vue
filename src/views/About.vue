@@ -1,10 +1,8 @@
 
 <template>
-  <div class="container">
+  <div>
 
-    <div class="container">
-      <h1>About page</h1>
-    </div>
+    <h1>About page</h1>
 
     <br/>
     <br/>
